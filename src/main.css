@@ -11,3 +11,8 @@ p{
     text-align: justify;
     color: purple;
 }
+.para{
+    text-align: justify;
+    padding: 50px;
+    color: green;
+}
